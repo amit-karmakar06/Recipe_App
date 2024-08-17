@@ -1,1 +1,1 @@
-This is a recipe app
+Steps to run this app
