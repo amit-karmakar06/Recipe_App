@@ -1,4 +1,4 @@
-# Recipe Appasdf
+# Recipe App
 
 Steps to run this app:
 
